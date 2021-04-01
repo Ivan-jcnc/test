@@ -1,1 +1,3 @@
 tällä on git harjoittelu kokemuksen saamisen varten
+
+annetaan lisäksi teksia
